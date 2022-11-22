@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-TemptingForza is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi am Rachata Triratjarasporn ✨ _special_ ✨ 
 
 - 🌱 I’m currently learning software.
 - 🤔 I’m looking for help with programming
