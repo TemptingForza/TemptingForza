@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-Hi am Rachata Triratjarasporn ✨ _special_ ✨ 
+I am Rachata Triratjarasporn and this Readme is an ✨ About Me ✨ 
 
 - 🌱 I’m currently learning software.
 - 🤔 I’m looking for help with programming
